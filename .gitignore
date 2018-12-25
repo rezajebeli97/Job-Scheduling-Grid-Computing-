@@ -1,0 +1,12 @@
+AntColony/__pycache__/*
+AntColony/.idea/*
+AntColony/AntColony/*
+ArtificialBeeColony/__pycache__/*
+ArtificialBeeColony/.idea/*
+ArtificialBeeColony/AntColony/*
+FireFly/__pycache__/*
+FireFly/.idea/*
+FireFly/AntColony/*
+TabuSearch/__pycache__/*
+TabuSearch/.idea/*
+TabuSearch/AntColony/*
