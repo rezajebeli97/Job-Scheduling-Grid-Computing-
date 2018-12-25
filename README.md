@@ -1,0 +1,3 @@
+#Grid Computing
+##This report reviews the result of research and works that have been done during the internship program of IPM. The purpose of this program was to study different optimization algorithms and apply them to the VM placement problem.
+For each algorithm i declared 3 main class for designing. Problem, State, Search. Problem and State classes are approximately the same for designing of each algorithm. So the optimization algorithm designed in Search class for each step.
